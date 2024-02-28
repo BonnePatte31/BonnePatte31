@@ -19,8 +19,10 @@
         <p>&nbsp;- Tous nos chiens sont des bonnes pattes -</p>
         <ul class="icons">
           <li><a href="#nav" class="button icon solid solo fa-arrow-down scrolly"></a><br>
-          </li>
-          <li></li>
+          <div class="ligne-vide">
+            <h1>LigneVide1>
+              </h1>
+            </div>
         </ul>
       </div>
       <!-- Nav -->
@@ -55,8 +57,7 @@
           <a href="#" class="image main"><img src="images/pic01.jpg" alt=""></a>
           <h2><br>
           </h2>
-          <h2><a href="#">Newsletter (c'est pas vraiment ça mais
-              bon)</a></h2>
+          <h2><a href="#">- Le parcours de quelques uns de mes clients -</a></h2>
         </article>
         <section class="posts">
           <article>
