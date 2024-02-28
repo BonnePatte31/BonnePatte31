@@ -49,20 +49,20 @@
         <!-- Featured Post -->
         <article class="post featured">
           <header class="major"> <span class="date">Présentation</span>
-            <h2><a href="#">Petite citation<br>
-                sympa des familles</a></h2>
+            <h2>Petite citation<br>
+              sympa des familles</h2>
             <p>Mini présentation de qui je suis, de qui est mon chien, de
               pourquoi je fais ça, etc.</p>
           </header>
           <a href="#" class="image main"><img src="images/pic01.jpg" alt=""></a>
           <h2><br>
           </h2>
-          <h2><a href="#">- Le parcours de quelques uns de mes clients -</a></h2>
+          <h2>- Le parcours de quelques uns de mes clients -</h2>
         </article>
         <section class="posts">
           <article>
-            <h2><a href="#">Nom client + Descrpition<br>
-              </a></h2>
+            <h2>Nom client + Description<br>
+            </h2>
             <a href="#" class="image fit"><img src="images/pic02.jpg" alt=""></a>
             <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum
               primis in faucibus. Pellentesque venenatis dolor imperdiet dolor
@@ -72,7 +72,7 @@
             </ul>
           </article>
           <article>
-            <h2><a href="#">Nom client + Descrpition</a></h2>
+            <h2>Nom client + Description</h2>
             <h2><a href="#"></a></h2>
             <a href="#" class="image fit"><img src="images/pic03.jpg" alt=""></a>
             <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum
@@ -106,16 +106,16 @@ name="message" id="message" rows="3"></textarea> </div>
         </section>
         <section class="split contact">
           <section>
-            <h3></h3>
+            <h2 style="width: 262px; margin-left: 79px;"><b>- Me contacter -</b></h2>
             <p><a href="#"></a></p>
           </section>
           <section>
             <h3>Téléphone</h3>
-            <p><a href="#">07 69 31 50 88</a></p>
+            <p>07 69 31 50 88</p>
           </section>
           <section>
             <h3>Email</h3>
-            <p><a href="#">bonnepatte31@gmail.com</a></p>
+            <p>bonnepatte31@gmail.com</p>
           </section>
           <section>
             <h3>Réseaux sociaux</h3>
