@@ -55,8 +55,8 @@
               pourquoi je fais ça, etc.</p>
             <a href="#" class="image main"><img src="images/pic01.jpg" alt=""></a></header>
         </article>
-        <h2 style="text-align: center;">- Le parcours de quelques uns de mes
-          clients -</h2>
+        <h2 style="text-align: center; margin-left: 8px;">- parcours de quelques
+          uns de mes clients -</h2>
         <section class="posts">
           <article>
             <h2>Nom client + Description<br>
