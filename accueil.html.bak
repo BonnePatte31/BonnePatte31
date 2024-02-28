@@ -57,8 +57,8 @@
           <a href="#" class="image main"><img src="images/pic01.jpg" alt=""></a>
           <h2><br>
           </h2>
-          <h2>- Le parcours de quelques uns de mes clients -</h2>
         </article>
+        <h2>- Le parcours de quelques uns de mes clients -</h2>
         <section class="posts">
           <article>
             <h2>Nom client + Description<br>
@@ -106,7 +106,7 @@ name="message" id="message" rows="3"></textarea> </div>
         </section>
         <section class="split contact">
           <section>
-            <h2 style="width: 262px; margin-left: 79px;"><b>- Me contacter -</b></h2>
+            <h2 style="width: 266px; margin-left: 75px;"><b>- Me contacter -</b></h2>
             <p><a href="#"></a></p>
           </section>
           <section>
@@ -124,10 +124,6 @@ name="message" id="message" rows="3"></textarea> </div>
               <li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
               <li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
             </ul>
-          </section>
-          <section>
-            <h3></h3>
-            <p><a href="#"></a></p>
           </section>
         </section>
       </footer>
@@ -147,6 +143,5 @@ name="message" id="message" rows="3"></textarea> </div>
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
-    
   </body>
 </html>
