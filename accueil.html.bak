@@ -25,11 +25,11 @@
       <!-- Nav -->
       <nav id="nav">
         <ul class="links">
-          <li class="active"><a href="index.html" style="height: 153px; margin-top: 16px;">This
+          <li class="active"><a href="index.html" style="height: 58px; margin-top: 0px;">This
               is Massively</a></li>
-          <li><a href="generic.html" style="height: 160px; margin-top: 14px;">Generic
+          <li><a href="generic.html" style="height: 173px; margin-top: 0px;">Generic
               Page</a></li>
-          <li><a href="elements.html" style="height: 130px; margin-top: 14px;">Elements
+          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Elements
               Reference</a></li>
         </ul>
         <ul class="icons">
@@ -140,10 +140,8 @@
         <footer>
           <div class="pagination">
             <!--<a href="#" class="previous">Prev</a>--> <a href="#" class="page active">1</a>
-            <a href="#" class="page">2</a> <a href="#" class="page">3</a> <span
-
-              class="extra">…</span> <a href="#" class="page">8</a> <a href="#"
-
+            <a href="#" class="page">2</a> <a href="#" class="page">3</a> <span
+              class="extra">…</span> <a href="#" class="page">8</a> <a href="#"
               class="page">9</a> <a href="#" class="page">10</a> <a href="#" class="next">Next</a>
           </div>
         </footer>
@@ -153,14 +151,11 @@
         <section>
           <form method="post" action="#">
             <div class="fields">
-              <div class="field"> <label for="name">Name</label> <input name="name"
-
+              <div class="field"> <label for="name">Name</label> <input name="name"
                   id="name" type="text"> </div>
-              <div class="field"> <label for="email">Email</label> <input name="email"
-
+              <div class="field"> <label for="email">Email</label> <input name="email"
                   id="email" type="text"> </div>
-              <div class="field"> <label for="message">Message</label> <textarea
-
+              <div class="field"> <label for="message">Message</label> <textarea
 name="message" id="message" rows="3"></textarea> </div>
             </div>
             <ul class="actions">
