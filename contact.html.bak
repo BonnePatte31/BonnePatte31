@@ -43,6 +43,14 @@
           <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
         </ul>
       </nav>
+      <!-- Main -->
+      <div id="main">
+        <!-- Featured Post -->
+        <article class="post featured">
+          <header class="major"> <span class="date">Contact</span>
+          </header>
+        </article>
+      </div>
       <!-- Footer -->
       <footer id="footer">
         <section>
@@ -102,6 +110,5 @@ name="message" id="message" rows="3"></textarea> </div>
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
-    
   </body>
 </html>

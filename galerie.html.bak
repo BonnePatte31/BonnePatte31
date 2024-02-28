@@ -32,10 +32,10 @@
               formations</a></li>
           <li><a href="services_et_tarifs.html#nav" style="height: 173px; margin-top: 0px; width: 186px; margin-left: -18px;">Services
               et tarifs</a></li>
-          <li><a href="galerie.html#nav" style="height: 141px; margin-top: 0px; width: 107px; margin-left: -15px;">Galerie</a></li>
+          <li class="active"><a href="galerie.html#nav" style="height: 141px; margin-top: 0px; width: 101px; margin-left: -9px;">Galerie</a></li>
           <li><a href="projet.html#nav" style="height: 141px; margin-top: 0px; margin-left: -3px; width: 109px;">Projet</a></li>
           <li><a href="partenaires.html#nav" style="height: 141px; margin-top: 0px; margin-left: -16px; width: 145px;">Partenaires</a></li>
-          <li class="active"><a href="contact.html#nav" style="height: 141px; margin-top: 0px; margin-left: -11px; width: 101px;">Contact</a></li>
+          <li><a href="contact.html#nav" style="height: 141px; margin-top: 0px; margin-left: -24px; width: 114px;">Contact</a></li>
         </ul>
         <ul class="icons">
           <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
@@ -43,6 +43,24 @@
           <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
         </ul>
       </nav>
+      <!-- Main -->
+      <div id="main">
+        <!-- Featured Post -->
+        <article class="post featured">
+          <header class="major"> <span class="date">Galerie</span></header>
+          <div style="text-align: center;"><img src="./images/Duo.jpg" alt="image duo L-S et Argos"
+
+              style="width: 441px; height: 452px;">
+            <h3>- Mon accolyte Argos et moi-même -</h3>
+          </div>
+          <div style="text-align: center;"><img src="./images/argos1.jpeg"
+
+              alt="photo shooting Argos verte">
+            <h3>- Une magnifique photo d'Argos lors de son premier shooting,
+              prise par {nom de la photographe et son @Insta] -</h3>
+          </div>
+        </article>
+      </div>
       <!-- Footer -->
       <footer id="footer">
         <section>
@@ -102,6 +120,5 @@ name="message" id="message" rows="3"></textarea> </div>
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
-    
   </body>
 </html>
