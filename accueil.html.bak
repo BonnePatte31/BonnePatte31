@@ -20,6 +20,7 @@
         <ul class="icons">
           <li><a href="#nav" class="button icon solid solo fa-arrow-down scrolly"></a><br>
           </li>
+          <li></li>
         </ul>
       </div>
       <!-- Nav -->
@@ -52,13 +53,14 @@
               pourquoi je fais ça, etc.</p>
           </header>
           <a href="#" class="image main"><img src="images/pic01.jpg" alt=""></a>
+          <h2><br>
+          </h2>
           <h2><a href="#">Newsletter (c'est pas vraiment ça mais
               bon)</a></h2>
         </article>
-        <!-- Posts -->
         <section class="posts">
           <article>
-            <header> <span class="date">April 24, 2017</span>
+            <header><span class="date">April 24, 2017</span>
               <h2><a href="#">Sed magna<br>
                   ipsum faucibus</a></h2>
             </header>
