@@ -30,6 +30,9 @@
           <li><a href="generic.html" style="height: 173px; margin-top: 0px;">Services
               et tarifs</a></li>
           <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Galerie</a></li>
+          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Projet</a></li>
+          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Partenaires</a></li>
+          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Contact</a></li>
         </ul>
         <ul class="icons">
           <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
