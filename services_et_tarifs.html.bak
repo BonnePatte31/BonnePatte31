@@ -30,10 +30,10 @@
           <li><a href="accueil.html" style="height: 107px; margin-top: 0px; width: 138px; margin-left: -14px;">Présentation</a></li>
           <li><a href="mes_formations.html#nav" style="height: 141px; margin-top: 0px; margin-left: -3px; width: 170px;">Mes
               formations</a></li>
-          <li><a href="services_et_tarifs.html#nav" style="height: 173px; margin-top: 0px; width: 186px; margin-left: -18px;">Services
+          <li class="active"><a href="services_et_tarifs.html#nav" style="height: 173px; margin-top: 0px; width: 187px;">Services
               et tarifs</a></li>
           <li><a href="galerie.html#nav" style="height: 141px; margin-top: 0px; width: 107px; margin-left: -15px;">Galerie</a></li>
-          <li class="active"><a href="projet.html#nav" style="height: 141px; margin-top: 0px; margin-left: -1px; width: 103px;">Projet</a></li>
+          <li><a href="projet.html#nav" style="height: 141px; margin-top: 0px; margin-left: -3px; width: 109px;">Projet</a></li>
           <li><a href="partenaires.html#nav" style="height: 141px; margin-top: 0px; margin-left: -16px; width: 145px;">Partenaires</a></li>
           <li><a href="contact.html#nav" style="height: 141px; margin-top: 0px; margin-left: -24px; width: 114px;">Contact</a></li>
         </ul>
@@ -47,9 +47,15 @@
       <div id="main">
         <!-- Featured Post -->
         <article class="post featured">
-          <header class="major"> <span class="date">Projet</span>Description de
-            mon projet<br>
-            Éventuellement, schémas, si pertinent</header>
+          <header class="major"> <span class="date">Mes formations</span>
+            <h2>Petite citation<br>
+              sympa des familles</h2>
+            <p><br>
+            </p>
+            <p>Énonciation du nom de mes formations et présentation de celles-ci</p>
+            <p>Donner la date à laquelle je les ai obtenues, par quel organsime,
+              avec quels profs aussi, si valorisant</p>
+          </header>
         </article>
       </div>
       <!-- Footer -->
