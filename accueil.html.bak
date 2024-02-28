@@ -26,9 +26,10 @@
       <nav id="nav">
         <ul class="links">
           <li class="active"><a href="index.html" style="height: 58px; margin-top: 0px;">Présentation</a></li>
-          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Mes formations</a></li>
-          <li><a href="generic.html" style="height: 173px; margin-top: 0px;">Services
-              et tarifs</a></li>
+          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Mes<br>
+            formations</a></li>
+          <li><a href="generic.html" style="height: 173px; margin-top: 0px;">Services<br>
+            et tarifs</a></li>
           <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Galerie</a></li>
           <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Projet</a></li>
           <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Partenaires</a></li>
