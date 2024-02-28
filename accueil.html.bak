@@ -25,15 +25,15 @@
       <!-- Nav -->
       <nav id="nav">
         <ul class="links">
-          <li class="active"><a href="index.html" style="height: 58px; margin-top: 0px;">Présentation</a></li>
-          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Mes<br>
+          <li class="active"><a href="index.html" style="height: 107px; margin-top: 0px; width: 138px; margin-left: -14px;">Présentation</a></li>
+          <li><a href="elements.html" style="height: 141px; margin-top: 0px; margin-left: -18px; width: 173px;">Mes
               formations</a></li>
-          <li><a href="generic.html" style="height: 173px; margin-top: 0px;">Services<br>
+          <li><a href="generic.html" style="height: 173px; margin-top: 0px; width: 186px; margin-left: -18px;">Services
               et tarifs</a></li>
-          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Galerie</a></li>
-          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Projet</a></li>
-          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Partenaires</a></li>
-          <li><a href="elements.html" style="height: 141px; margin-top: 1px;">Contact</a></li>
+          <li><a href="elements.html" style="height: 141px; margin-top: 0px;">Galerie</a></li>
+          <li><a href="elements.html" style="height: 141px; margin-top: 0px;">Projet</a></li>
+          <li><a href="elements.html" style="height: 141px; margin-top: 0px;">Partenaires</a></li>
+          <li><a href="elements.html" style="height: 141px; margin-top: 0px;">Contact</a></li>
         </ul>
         <ul class="icons">
           <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
@@ -51,8 +51,7 @@
             <p>Mini présentation de qui je suis, de qui est mon chien, de
               pourquoi je fais ça, etc.</p>
           </header>
-          <h2><a href="#">Petite citation<br>
-                sympa des familles</a></h2>
+          <h2><a href="#">Newsletter (c'est pas vraiment ça mais bon)</a></h2>
         </article>
         <!-- Posts -->
         <section class="posts">
