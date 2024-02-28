@@ -28,8 +28,8 @@
       <!-- Nav -->
       <nav id="nav">
         <ul class="links">
-          <li><a href="index.html" style="height: 107px; margin-top: 0px; width: 138px; margin-left: -14px;">Présentation</a></li>
-          <li class="active"><a href="elements.html" style="height: 141px; margin-top: 0px; margin-left: -3px; width: 170px;">Mes
+          <li><a href="accueil.html" style="height: 107px; margin-top: 0px; width: 138px; margin-left: -14px;">Présentation</a></li>
+          <li class="active"><a href="mes_formations.html" style="height: 141px; margin-top: 0px; margin-left: -3px; width: 170px;">Mes
               formations</a></li>
           <li><a href="generic.html" style="height: 173px; margin-top: 0px; width: 186px; margin-left: -18px;">Services
               et tarifs</a></li>
