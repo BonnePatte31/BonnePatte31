@@ -47,14 +47,12 @@
       <div id="main">
         <!-- Featured Post -->
         <article class="post featured">
-          <header class="major"> <span class="date">Mes formations</span>
-            <h2>Petite citation<br>
-              sympa des familles</h2>
-            <p><br>
-            </p>
-            <p>Énonciation du nom de mes formations et présentation de celles-ci</p>
-            <p>Donner la date à laquelle je les ai obtenues, par quel organsime,
-              avec quels profs aussi, si valorisant</p>
+          <header class="major"> <span class="date">Services et tarifs</span>
+            <p>Texte explicatif</p>
+            <p>Puis, tableau résumant tous les forfaits et tarifs etc.</p>
+            <p>Enfin, petite phrase rappelant que l'onglet contact ou le
+              formulaire en bas de page sont là pour demander des infos ou me
+              contacter pour faire appel à mes services. </p>
           </header>
         </article>
       </div>
@@ -63,14 +61,11 @@
         <section>
           <form method="post" action="#">
             <div class="fields">
-              <div class="field"> <label for="name">Nom</label> <input name="name"
-
+              <div class="field"> <label for="name">Nom</label> <input name="name"
                   id="name" type="text"> </div>
-              <div class="field"> <label for="email">Email</label> <input name="email"
-
+              <div class="field"> <label for="email">Email</label> <input name="email"
                   id="email" type="text"> </div>
-              <div class="field"> <label for="message">Message</label> <textarea
-
+              <div class="field"> <label for="message">Message</label> <textarea
 name="message" id="message" rows="3"></textarea> </div>
             </div>
             <ul class="actions">

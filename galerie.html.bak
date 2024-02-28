@@ -48,11 +48,13 @@
         <!-- Featured Post -->
         <article class="post featured">
           <header class="major"> <span class="date">Galerie</span></header>
-          <div style="text-align: center;"><img src="./images/Duo.jpg" alt="image duo L-S et Argos"
-              style="width: 497px; height: 509px;">
+          <div style="text-align: center;"><img src="./images/Duo.jpg"
+
+              alt="image duo L-S et Argos" style="width: 497px; height: 509px;">
             <h3>- Mon accolyte Argos et moi-même -</h3>
           </div>
-          <div style="text-align: center;"><img src="./images/argos1.jpeg" alt="photo shooting Argos verte"
+          <div style="text-align: center;"><img src="./images/argos1.jpeg" alt="photo shooting Argos verte"
+
               style="width: 923px; height: 614px;">
             <h3>- Une magnifique photo d'Argos lors de son premier shooting,
               prise par [nom de la photographe et son @Insta] -</h3>
@@ -64,11 +66,14 @@
         <section>
           <form method="post" action="#">
             <div class="fields">
-              <div class="field"> <label for="name">Nom</label> <input name="name"
+              <div class="field"> <label for="name">Nom</label> <input name="name"
+
                   id="name" type="text"> </div>
-              <div class="field"> <label for="email">Email</label> <input name="email"
+              <div class="field"> <label for="email">Email</label> <input name="email"
+
                   id="email" type="text"> </div>
-              <div class="field"> <label for="message">Message</label> <textarea
+              <div class="field"> <label for="message">Message</label> <textarea
+
 name="message" id="message" rows="3"></textarea> </div>
             </div>
             <ul class="actions">

@@ -49,8 +49,9 @@
         <article class="post featured">
           <header class="major"> <span class="date">Partenaires</span>
             <h1>Ils me soutiennent dans mon travail :</h1>
-            <div style="text-align: center;"><img src="./images/pic01.jpg" alt="logo du partenaire 1"
-                style="width: 512px; height: 251px;">
+            <div style="text-align: center;"><img src="./images/pic01.jpg"
+
+                alt="logo du partenaire 1" style="width: 512px; height: 251px;">
               <h3>- Logo du partenaire 1 -</h3>
             </div>
             <div style="text-align: center;"><img src="./images/pic02.jpg" alt="logo du partenaire 2">
@@ -64,11 +65,14 @@
         <section>
           <form method="post" action="#">
             <div class="fields">
-              <div class="field"> <label for="name">Nom</label> <input name="name"
+              <div class="field"> <label for="name">Nom</label> <input name="name"
+
                   id="name" type="text"> </div>
-              <div class="field"> <label for="email">Email</label> <input name="email"
+              <div class="field"> <label for="email">Email</label> <input name="email"
+
                   id="email" type="text"> </div>
-              <div class="field"> <label for="message">Message</label> <textarea
+              <div class="field"> <label for="message">Message</label> <textarea
+
 name="message" id="message" rows="3"></textarea> </div>
             </div>
             <ul class="actions">
